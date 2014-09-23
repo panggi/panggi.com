@@ -27,8 +27,8 @@ Pair programming has some benefits: fewer bugs (increased quality), improved ski
 Based on my experience, the best way to pair program is to use 1 computer, 2 monitors, 2 keyboards and 2 mice just like what i've learned from [neo](http://www.neo.com) guys.
 
 <figure>
-	<a href="/images/post/2014-09-23-remote-pairing-using-tmate/pairing.jpg"><img src="/images/post/2014-09-23-remote-pairing-using-tmate/pairing.jpg" alt="image"></a>
-	<figcaption><a href="http://weilu.github.io/reddot2012/" title="neo guys doing pair programming">neo guys doing pair programming</a>.</figcaption>
+  <img src="/images/post/2014-09-23-remote-pairing-using-tmate/pairing.jpg" alt="pair programming">
+  <figcaption><a href="http://weilu.github.io/reddot2012/" title="neo guys doing pair programming">neo guys doing pair programming</a>.</figcaption>
 </figure>
 
 But what happens when you want to pair with someone in another city or country? or when there is a time that you can't come to office but still want to do pair programming with your pair buddy? the answer is **Remote pairing**
