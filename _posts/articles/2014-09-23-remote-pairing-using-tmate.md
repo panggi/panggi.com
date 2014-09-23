@@ -31,7 +31,14 @@ Based on my experience, the best way to pair program is to use 1 computer, 2 mon
   <figcaption><a href="http://weilu.github.io/reddot2012/" title="neo guys doing pair programming">neo guys doing pair programming</a>.</figcaption>
 </figure>
 
-But what happens when you want to pair with someone in another city or country? or when there is a time that you can't come to office but still want to do pair programming with your pair buddy? the answer is **Remote pairing**
+But what happens when you want to pair with someone in another city or country? or when there is a time that you can't come to office but still want to do pair programming with your pair buddy? the answer is **Remote pairing**.
+
+**Things that you need to prepare for remote pairing:**
+
+* **a good headset with microphone**: it will be much better if there's a *noise cancelling* feature.
+* **a reliable internet connection**: you know what this one is for.
+* **a great voice, video and screen sharing tool**: Skype is my favorite tool for it.
+* **a great tool to interact with code**: tmate and vim is my choice.
 
 ##Remote pairing using tmate
 
