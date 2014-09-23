@@ -12,7 +12,7 @@ A Platform-agnostic person who has experiences in helping to build the technolog
 
 ## Projects involved:
 
-* Rule-based Transaction Analytics - Rails & Node.js (Veritrans)
+* Rule-based Expert System for transaction analysis - Rails & Node.js (Veritrans)
 * VT-Web: payment portal that allows merchant to use Veritrans payment system, by redirecting customer to Veritrans payment page - Rails (Veritrans)
 * Merchant Administration Portal - Rails (Veritrans)
 * PCI DSS Level 1 as Internal Penetration Tester and Secure Application Developer (Veritrans)
