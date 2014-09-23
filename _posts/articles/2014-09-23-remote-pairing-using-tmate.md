@@ -3,7 +3,7 @@ layout: post
 title: "Remote pairing using tmate"
 modified:
 categories: articles
-excerpt: "Do remote pairing using tmate and vim"
+excerpt: "Pair programming is a method of programming in which two people work together at a single computer. One person as ‘the driver’ and the other person as the ‘observer’ who reviews each line of code as it is typed"
 tags: [agile]
 image:
   feature: featured/tmate.png
