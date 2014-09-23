@@ -15,7 +15,12 @@ comments: true
 
 ##Pair programming
 
-**Pair programming** is a method of programming in which two people work together at a single computer. One person as '**the driver**' and the other person as the '**observer**' who reviews each line of code as it is typed.
+**Pair programming** is a method of programming in which two people work together at a single computer. One person as '**the driver**' and the other person as the '**observer**' who reviews each line of code as it is typed. Usually in TDD pair programming is formed as '**ping pong pairing**', for example one person write the test and the other one write the test to make the test pass.
+
+<figure>
+  <img src="/images/post/2014-09-23-remote-pairing-using-tmate/red-green-refactor.png" alt="image">
+  <figcaption><a href="http://wrozka.github.io/ppppp-pair-programming/#/18">Red Green Refactor.</a></figcaption>
+</figure>
 
 Pair programming has some benefits: fewer bugs (increased quality), improved skills, and faster delivery. With increased quality comes big savings later in the project. It takes time to get used to pair programming so don't worry if it feels awkward at first.
 
