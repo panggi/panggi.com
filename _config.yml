@@ -1,0 +1,53 @@
+# Site wide configuration
+
+title: Panggi Libersa Jasri Akadol
+locale: en_US
+description: Mostly about tech.
+logo: sg_fullerton.jpg
+search: true
+url: 
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Panggi Libersa J.A
+  avatar: panggi.jpg
+  email: panggi@me.com
+  disqus-shortname: panggi
+  twitter: panggi
+  facebook: #username
+  github: panggi
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: panggi
+  instagram: #username
+  flickr: #username
+  tumblr: panggi
+  google:
+    plus: PanggiLibersaJasriAkadol
+    analytics: UA-42012087-2
+    verify: w8pEBILxVW6RU0_POVCVDRL7PDf4ride2udiPy_80W0
+    ad-client:
+    ad-slot: 
+  bing-verify: 58593F54705B18D8A4A43D5C8CCA7F95
