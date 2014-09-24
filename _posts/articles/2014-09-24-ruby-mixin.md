@@ -43,8 +43,6 @@ SerialNumber.new("c3p0").generate
 {% endhighlight ruby %}
 
 The sample output is "c3p0_391", and the interesting part is the intimacy between class and module in this mixin relationship. We can see that *prefix* is used in module but implemented in the class. We can add more mixins to the SerialNumber class and create subclasses of it and then each subclass will have functionality of all the mixins. **So in Ruby we can use single inheritance to define a class and attach additional functionalities with modules**.
-:q
-:q
 
 **References:**
 
