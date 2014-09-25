@@ -3,7 +3,7 @@ layout: post
 title: "Secure Web Application Development 101"
 modified:
 categories: articles
-excerpt: "This is my presentation slides at ProIT’s “Web Security” Seminar (Bandung, Indonesia, December 22 2013)"
+excerpt: "When developing web application especially for the one that processes the confidential information such as financial system, this 101 presentation should cover at least a small part of the big world of computer security"
 tags: [security, programming]
 image:
   feature: featured/security.jpg
