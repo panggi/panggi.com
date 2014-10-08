@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+excerpt: "A Platform-agnostic person who has experiences in helping to build the technology startup companies including his own. One of his passions is technology, but he doesn’t wanna be a machine sitting in front of another machines, he wants to be more human with it."
 image:
   feature: featured/brut.png
   credit: The Milky Way Project
