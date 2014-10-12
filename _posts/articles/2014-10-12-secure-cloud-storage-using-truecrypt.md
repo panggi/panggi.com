@@ -39,16 +39,16 @@ First thing first, you need to download TrueCrypt from the trusted source. My re
 **After downloaded and installed, you can follow these steps:**
 
 * Open TrueCrypt
-* Click 'Create Volume'
-* Choose 'Create an encrypted file container' and click 'Next'
-* Choose 'Standard TrueCrypt volume' at the 'Volume Type' section and click 'Next'
-* At 'Volume Location' section, click 'Select File' and choose the directory and file name for your container, you can directly chose the dropbox, copy or other directory to save the file. After done with it, click 'Next'
-* At 'Encryption Options' you can chose the 'Encryption Algorithm' and 'Hash Algorithm', my recommendation for Encryption Algorithm is to use the multiple Algorithm such as *Serpent-Twofish-AES*. Click 'Next' to continue.
-* Now you can configure how big your file is at 'Volume Size' section. Click 'Next' to continue.
-* Enter the password you like at 'Volume Password' section, make sure it's a strong one. Again, click 'Next' to continue.
-* Choose the Filesystem type at 'Format Options' section and click 'Next' to continue
-* At 'Cross Platform Support', in my case choose between 'I will mount the volume on the other platforms' or 'I will mount the volume only on Mac OS X'. Clict 'Next' to continue.
-* Move your mouse as randomly as possible and as long as possible to increase the cryptographic strength of the encryption keys. Click 'Format' if you think it's enough for cursor-moving thing.
+* Click '**Create Volume**'
+* Choose '**Create an encrypted file container**' and click '**Next**'
+* Choose '**Standard TrueCrypt volume**' at the '**Volume Type**' section and click '**Next**'
+* At '**Volume Location**' section, click '**Select File**' and choose the directory and file name for your container, you can directly chose the dropbox, copy or other directory to save the file. After done with it, click '**Next**'
+* At '**Encryption Options**' you can chose the '**Encryption Algorithm**' and '**Hash Algorithm**', my recommendation for Encryption Algorithm is to use the multiple Algorithm such as *Serpent-Twofish-AES*. Click '**Next**' to continue.
+* Now you can configure how big your file is at '**Volume Size**' section. Click '**Next**' to continue.
+* Enter the password you like at '**Volume Password**' section, make sure it's a strong one. Again, click '**Next**' to continue.
+* Choose the Filesystem type at '**Format Options**' section and click '**Next**' to continue
+* At '**Cross Platform Support**', in my case choose between '**I will mount the volume on the other platforms**' or '**I will mount the volume only on Mac OS X**'. Clict '**Next**' to continue.
+* Move your mouse as randomly as possible and as long as possible to increase the cryptographic strength of the encryption keys. Click '**Format**' if you think it's enough for cursor-moving thing.
 * Done! you may exit the wizard.
 
 Now the file is created and your cloud storage service is uploading it to their server.
@@ -56,9 +56,9 @@ Now the file is created and your cloud storage service is uploading it to their 
 **Storing files to the encrypted container**
 
 * Open TrueCrypt
-* Choose the empty slot of drive that usually numbered from '1'
-* Click 'Select File' and choose your newly created file
-* Click 'Mount' and enter the password
+* Choose the empty slot of drive.
+* Click '**Select File**' and choose your newly created file
+* Click '**Mount**' and enter the password
 * New drive is mounted and you can store your files to that drive and unmount it if it's done.
 
 **Tip for you:**
