@@ -26,7 +26,7 @@ The Windows version of the tool had also been [audited](https://opencryptoaudit.
 
 > Finally, iSEC found no evidence of backdoors or otherwise intentionally malicious code in the assessed areas. The vulnerabilities described later in this document all appear to be unintentional, introduced as the result of bugs rather than malice.
 
-With that in mind, i'm still in faith using TrueCrypt as one of my security tool.
+With that in mind, i still believe that TrueCrypt is in good hands and i'll keep use it as one of my security tool.
 
 ##Client side encryption for your cloud files
 
