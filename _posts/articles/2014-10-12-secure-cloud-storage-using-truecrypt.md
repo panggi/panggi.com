@@ -18,9 +18,9 @@ comments: true
 </figure>
 Yes, I know that if you visit [www.truecrypt.org](http://www.truecrypt.org), there is a warning not to use it anymore.
 
-But many people thought it's weird and they do things to make sure the FOSS encryption tool will still be available for use.
+But many people thought it was weird and they did things to make sure the FOSS encryption tool will still be available for use.
 
-One of them is ["Open Crypto Audit Project"](https://opencryptoaudit.org/) with [Bruce Schneier](https://opencryptoaudit.org/people) as one of it's Technical Advisory Board.
+One of them is ["Open Crypto Audit Project"](https://opencryptoaudit.org/) with [Bruce Schneier](https://opencryptoaudit.org/people) as one of its Technical Advisory Board.
 
 The Windows version of the tool had also been [audited](https://opencryptoaudit.org/reports/iSec_Final_Open_Crypto_Audit_Project_TrueCrypt_Security_Assessment.pdf) and from the report we can see the conclusion:
 
@@ -32,7 +32,7 @@ With that in mind, i still believe that TrueCrypt is in good hands and i'll keep
 
 I don't trust any commercial cloud storage on the market for now, and this post is agnostic whether you use Dropbox, Copy or any other cloud storage.
 
-So, basically what we're trying to do is to create *mountable encrypted file container*. It's like having an encrypted hard drive that you can access anywhere.
+So, basically what we're trying to do is to create *mountable encrypted file container*. It's like having an encrypted hard drive that you can access anywhere. All that cloud storage services know is just and encrypted files uploaded to their servers without knowing the content of it.
 
 First thing first, you need to download TrueCrypt from the trusted source. My recommendation is to download the binaries from [github](https://github.com/AuditProject/truecrypt-verified-mirror?files=1) that is managed by Open Crypto Audit Project.
 
