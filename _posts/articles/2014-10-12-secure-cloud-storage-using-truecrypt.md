@@ -32,7 +32,7 @@ With that in mind, i still believe that TrueCrypt is in good hands and i'll keep
 
 I don't trust any commercial cloud storage on the market for now, and this post is agnostic whether you use Dropbox, Copy or any other cloud storage.
 
-So, basically what we're trying to do is to create *mountable encrypted file container*. It's like having an encrypted hard drive that you can access anywhere. All that cloud storage services know is just and encrypted files uploaded to their servers without knowing the content of it.
+So, basically what we're trying to do is to create *mountable encrypted file container*. It's like having an encrypted hard drive that you can access anywhere. All that cloud storage services know is just encrypted files uploaded to their servers without knowing the content of it.
 
 First thing first, you need to download TrueCrypt from the trusted source. My recommendation is to download the binaries from [github](https://github.com/AuditProject/truecrypt-verified-mirror?files=1) that is managed by Open Crypto Audit Project.
 
