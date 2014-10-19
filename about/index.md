@@ -3,7 +3,7 @@ layout: page
 title: About
 excerpt: "A Platform-agnostic person who has experiences in helping to build the technology startup companies including his own. One of his passions is technology, but he doesn’t wanna be a machine sitting in front of another machines, he wants to be more human with it."
 image:
-  feature: featured/brut.png
+  feature: featured/brut.jpg
   credit: The Milky Way Project
   creditlink: http://blog.milkywayproject.org/2014/06/14/new-mwp-paper-outlines-the-powerful-synergy-between-citizens-scientists-professional-scientists-and-machine-learning/
 ---

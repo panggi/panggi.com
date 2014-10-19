@@ -6,7 +6,7 @@ categories: articles
 excerpt: "These are the slides of my presentation at Institut Teknologi Bandung about the reasons to work at a startup company."
 tags: [startup]
 image:
-  feature: featured/startup.png
+  feature: featured/startup.jpg
   credit: DailySocial.net
   creditlink: http://api.dailysocial.net/wp-content/uploads/2013/03/Screen-Shot-2013-03-18-at-2.11.35-PM.png
 date: 2014-10-12T13:26:25+07:00
