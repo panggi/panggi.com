@@ -3,7 +3,7 @@ layout: post
 title: "Attended RubyWorld Conference 2014 at Matsue, Japan"
 modified:
 categories: articles
-excerpt:
+excerpt: "I met several Ruby Core commiters, Creator of MacRuby and lead developer of RubyMotion (Laurent Sansonetti), Writer of 'Ruby Under a Microscope' (Pat Shaughnessy) and many others"
 tags: [ruby, events]
 image:
   feature: featured/ruby.jpg
