@@ -90,5 +90,5 @@ So you got the idea why it is great to combine logrotate and awscli, you will sa
 
 ## Tips
 
-* If your logrotate is not running, you can check the status at **cat /var/lib/logrotate.status** for centos or **/var/lib/logrotate/status** for ubuntu
+* For debugging purpose, you check logrotate.status file to see which files rotated: **cat /var/lib/logrotate.status** and run logrotate in a debug mode to see the problem if your logrotate config is not running: **/usr/sbin/logrotate -d /etc/logrotate.conf**
 * Create folders with timestamp to make it easy to search, the command is like this: **$ aws s3 cp /var/log s3://mybucket/web-server-01/$(date +%Y%m%d)/varlog/$(date +%Y%m%d%H%M%S) --recursive**
