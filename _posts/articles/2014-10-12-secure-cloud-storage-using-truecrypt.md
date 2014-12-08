@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Secure Cloud Storage Using TrueCrypt"
+title: "Secure cloud storage using TrueCrypt"
 modified:
 categories: articles
 excerpt: "Yes, I know that if you visit www.truecrypt.org, there is a warning not to use it anymore. But many people thought it’s weird and they do things to make sure the FOSS encryption tool will still be available for use."
