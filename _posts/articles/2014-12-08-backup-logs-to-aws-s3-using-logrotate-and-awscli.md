@@ -4,7 +4,7 @@ title: "Backup logs to AWS S3 using logrotate and awscli"
 modified:
 categories: articles
 excerpt: "As developer, logging feature is super useful for debugging and in production it is also can be used for tracking users and security mitigation as well."
-tags: [cloud, python]
+tags: [cloud, python, linux]
 image:
   feature: featured/cloud.jpg
   credit: datatrend.com

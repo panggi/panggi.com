@@ -4,7 +4,7 @@ title: "Ruby Mixin"
 modified:
 categories: articles
 excerpt: "Ruby class can inherit from only one parent, called a *superclass* and it does not support multiple inheritance (inherit features from more than one parent class), but Ruby has a powerful feature called *mixin*."
-tags: [ruby, programming]
+tags: [ruby]
 image:
   feature: featured/ruby.jpg
 date: 2014-09-24T21:12:17+07:00
