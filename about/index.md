@@ -8,7 +8,7 @@ image:
   creditlink: http://blog.milkywayproject.org/2014/06/14/new-mwp-paper-outlines-the-powerful-synergy-between-citizens-scientists-professional-scientists-and-machine-learning/
 ---
 
-I love Computer and Natural Science. I question everything, that's why i care less about labels and more about truth.
+I love Computer and Natural Science. I question everything, i care less about labels and more about truth.
 
 **PGP** - [http://pgp.mit.edu/pks/lookup?op=get&search=0x7D9D41DB1DFF863A](http://pgp.mit.edu/pks/lookup?op=get&search=0x7D9D41DB1DFF863A)
 
