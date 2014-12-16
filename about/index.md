@@ -10,6 +10,8 @@ image:
 
 I love Computer and Natural Science. I question everything, that's why i care less about labels and more about truth.
 
+**PGP** - [http://pgp.mit.edu/pks/lookup?op=get&search=0x7D9D41DB1DFF863A](http://pgp.mit.edu/pks/lookup?op=get&search=0x7D9D41DB1DFF863A)
+
 ## Projects involved:
 
 * Fraud Detection System for Online Payment - Rails & Node.js (Veritrans)
