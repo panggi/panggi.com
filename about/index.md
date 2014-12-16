@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-excerpt: "A Platform-agnostic person who has experiences in helping to build the technology startup companies including his own. One of his passions is technology, but he doesn’t wanna be a machine sitting in front of another machines, he wants to be more human with it."
+excerpt: "I love Computer and Natural Science. I question everything and I also care less about labels and more about truth."
 image:
   feature: featured/brut.jpg
   credit: The Milky Way Project
   creditlink: http://blog.milkywayproject.org/2014/06/14/new-mwp-paper-outlines-the-powerful-synergy-between-citizens-scientists-professional-scientists-and-machine-learning/
 ---
 
-A Platform-agnostic person who has experiences in helping to build the technology startup companies including his own. One of his passions is technology, but he doesn’t wanna be a machine sitting in front of another machines, he wants to be more human with it.
+I love Computer and Natural Science. I question everything and I also care less about labels and more about truth.
 
 ## Projects involved:
 
-* Rule-based Expert System for transaction analysis - Rails & Node.js (Veritrans)
+* Fraud Detection System for Online Payment - Rails & Node.js (Veritrans)
 * VT-Web: payment portal that allows merchant to use Veritrans payment system, by redirecting customer to Veritrans payment page - Rails (Veritrans)
 * Merchant Administration Portal - Rails (Veritrans)
 * PCI DSS Level 1 as Internal Penetration Tester and Secure Application Developer (Veritrans)
