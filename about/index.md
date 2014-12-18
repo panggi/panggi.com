@@ -14,7 +14,7 @@ I love Computer and Natural Science. I question everything, i care less about la
 
 ## Projects involved:
 
-* Fraud Detection System for Online Payment - Rails & Node.js (Veritrans)
+* Fraud Detection System for Online Payment - Rails & Express (Veritrans)
 * VT-Web: payment portal that allows merchant to use Veritrans payment system, by redirecting customer to Veritrans payment page - Rails (Veritrans)
 * Merchant Administration Portal - Rails (Veritrans)
 * PCI DSS Level 1 as Internal Penetration Tester and Secure Application Developer (Veritrans)
