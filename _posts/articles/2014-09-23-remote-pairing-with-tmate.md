@@ -38,7 +38,7 @@ But what happens when you want to pair with someone in another city or country? 
 * **a good headset with microphone**: it will be much better if there's a *noise cancelling* feature.
 * **a reliable internet connection**: you know what this one is for.
 * **a great voice, video and screen sharing tool**: Skype is my favorite tool for it.
-* **a great tool to interact with code**: tmate and vim is my choice.
+* **a great tool to interact with code**: tmate and vim are my choice.
 
 ##Remote pairing with tmate
 
