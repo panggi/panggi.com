@@ -7,8 +7,8 @@ excerpt: "When developing web application especially for the one that processes 
 tags: [security, programming]
 image:
   feature: featured/security.jpg
-  credit: wallpoper
-  creditlink: http://wallpoper.com/wallpaper/cryptography-278319
+  credit: Wikipedia
+  creditlink: http://en.wikipedia.org/wiki/File:SZ42-6-wheels-lightened.jpg
 date: 2014-09-25T14:14:25+07:00
 comments: true
 ---

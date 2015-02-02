@@ -7,8 +7,8 @@ excerpt: "Yes, I know that if you visit www.truecrypt.org, there is a warning no
 tags: [security, cloud]
 image:
   feature: featured/security.jpg
-  credit: wallpoper
-  creditlink: http://wallpoper.com/wallpaper/cryptography-278319
+  credit: Wikipedia
+  creditlink: http://en.wikipedia.org/wiki/File:SZ42-6-wheels-lightened.jpg
 date: 2014-10-12T22:48:57+07:00
 comments: true
 ---
