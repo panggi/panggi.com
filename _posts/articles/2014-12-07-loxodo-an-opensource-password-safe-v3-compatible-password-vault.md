@@ -4,7 +4,7 @@ title: "Loxodo: an open source Password Safe V3 compatible password vault"
 modified:
 categories: articles
 excerpt: "Loxodo is a multi-platform open source software written in python for managing your passwords securely and based on Bruce Schneier's Password Safe"
-tags: [security, python]
+tags: [security, privacy, python]
 image:
   feature: featured/security.jpg
   credit: Wikipedia
