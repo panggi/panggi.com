@@ -17,7 +17,7 @@ Basically there are three simple steps in this implementation:
 
 * Get the newest Tor exit nodes data from [https://check.torproject.org/exit-addresses](https://check.torproject.org/exit-addresses)
 * Get all the ip addresses from that data by using regex
-* Store it to a file
+* Store them to a file
 
 And here is the implementation in Ruby:
 
@@ -64,4 +64,4 @@ The file contains an array of IP addresses:
     $ ["162.247.72.201", "24.187.20.8", "162.248.160.151", "193.34.117.51",...]
    {% endraw %}
 
-Now you can use this IP addresses for whatever you want like blocking the access of anyone with these IP addresses that visits your site.
+Now you can use these IP addresses for whatever you want like blocking the access of anyone with these IP addresses that visits your site.
