@@ -16,9 +16,9 @@ This article is based on [OpenCV Documentation](http://docs.opencv.org/master/db
 * Ability to get video source from argument
 * Ability to capture video from webcam
 
-I am using video files by [ISE Lab, CVC Barcelona](http://iselab.cvc.uab.es/silverage.php?q=cvc_zebra) and MOG as the algorithm.
+I am using video file by [ISE Lab, CVC Barcelona](http://iselab.cvc.uab.es/silverage.php?q=cvc_zebra) and MOG as the algorithm.
 
-Here is the source code:
+Source code:
 
 {% highlight ruby %}
 
