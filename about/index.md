@@ -14,6 +14,8 @@ I love Computer and Natural Science. I question everything, i care less about la
 
 ## Projects involved:
 
+* Mobile projects at Veritrans Indonesia
+* Data Science projects at Veritrans Indonesia
 * [Aegis](https://www.veritrans.co.id/aegis.html) - Fraud Detection System for Online Payment (Rule based + Machine Learning) - (Veritrans)
 * [VT-Web](http://docs.veritrans.co.id) - payment portal that allows merchant to use Veritrans payment system, by redirecting customer to Veritrans payment page - (Veritrans)
 * [MAP](https://my.veritrans.co.id) - Merchant Administration Portal - (Veritrans)
@@ -25,7 +27,10 @@ I love Computer and Natural Science. I question everything, i care less about la
 
 ## Interests:
 
-* Artificial Intelligence
+* Truth
+* Natural Language Processing
+* Cognitive Computing
+* Machine Learning
 * Robotics
 * Computer Security
 * Web and Mobile Development
