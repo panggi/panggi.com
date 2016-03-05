@@ -15,7 +15,7 @@ Repository : [https://github.com/panggi/sms-spam-detector](https://github.com/pa
 
 Written in Python 2.7 using Naive Bayes and SVM for Classifier
 
-## How to run
+**How to run**
 {% raw %}
 
     $ python sms-spam-detector.py -m "Hello, dude. what's up?"
@@ -24,10 +24,12 @@ Written in Python 2.7 using Naive Bayes and SVM for Classifier
     $ This message is predicted by SVM as spam and Naive Bayes as spam
 
 {% endraw %}
-## TO DO
+**TO DO**
+
 Don't load the models everytime the program get executed
 
-## Credits
+**Credits**
+
 Dataset : [https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 
 Large portion of the codes are adapted from : [http://radimrehurek.com/data_science_python/](http://radimrehurek.com/data_science_python/)
