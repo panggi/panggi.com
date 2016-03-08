@@ -27,7 +27,7 @@ Create script for docker build and modify Dockerfile to accept environment varia
 
 * create_docker_image
 
-<script src="https://gist.github.com/panggi/0c8a30cf1a6c234a6d1b.js"></script>
+<script src="https://gist.github.com/panggi/cf68fcf43689ee134292.js"></script>
 
 * Dockerfile
 
