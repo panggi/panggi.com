@@ -3,7 +3,7 @@ layout: post
 title: "Add Dynamic Environment Variable to Dockerfile"
 modified:
 categories: articles
-excerpt:
+excerpt: "Deploy using docker and maintain the ability to use environment variable like NODE_ENV, RAILS_ENV."
 tags: [docker, linux]
 image:
   feature: featured/docker.jpg
