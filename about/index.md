@@ -10,16 +10,19 @@ image:
 
 I love Computer and Natural Science. I question everything, i care less about labels and more about truth.
 
-**PGP** - [http://pgp.mit.edu/pks/lookup?op=get&search=0x17F810A8B077F6CA](http://pgp.mit.edu/pks/lookup?op=get&search=0x17F810A8B077F6CA)
-
 ## Projects involved:
 
-* Mobile projects - (Veritrans)
-* Data Science projects - (Veritrans)
-* [Aegis](https://www.veritrans.co.id/aegis.html) - Fraud Detection System for Online Payment (Rule based + Machine Learning) - (Veritrans)
-* [VT-Web](http://docs.veritrans.co.id) - payment portal that allows merchant to use Veritrans payment system, by redirecting customer to Veritrans payment page - (Veritrans)
-* [MAP](https://my.veritrans.co.id) - Merchant Administration Portal - (Veritrans)
-* PCI DSS Level 1 as Internal Penetration Tester and Secure Application Developer (Veritrans)
+* Prism Indonesian Natural Language Processing Tools (Veritrans/Midtrans)
+* Prism Image Similarity Search Engine (CBIR) (Veritrans/Midtrans)
+* Prism Analytics Dashboard (Veritrans/Midtrans)
+* Prism Analytics Backend (Veritrans/Midtrans)
+* Prism Chat Widget (Veritrans/Midtrans)
+* Midtrans Data Science (model creation for Fraud Detection System and Gender API) (Veritrans/Midtrans)
+* SociaLink (Veritrans/Midtrans)
+* [Aegis](https://midtrans.com/aegis) - Fraud Detection System for Online Payment (Rule based + Machine Learning) - (Veritrans/Midtrans)
+* [VT-Web](https://midtrans.com/payments) - payment portal that allows merchant to use Veritrans payment system, by redirecting customer to Veritrans payment page - (Veritrans/Midtrans)
+* [MAP](https://account.midtrans.com/login) - Merchant Administration Portal - (Veritrans/Midtrans)
+* PCI DSS Level 1 as Internal Penetration Tester and Secure Application Developer (Veritrans/Midtrans)
 * [Bistip.com](http://www.bistip.com) - a peer-to-peer courier system - (Bistip)
 * [Sukeru Technologies](http://bit.ly/SukeruDemo) - Discontinued cloud computing startup
 * [Reline Secure Communication Line](http://bit.ly/RelineDemo) - Discontinued communication security startup
@@ -27,9 +30,9 @@ I love Computer and Natural Science. I question everything, i care less about la
 
 ## Interests:
 
-* Natural Language Processing
-* Cognitive Computing
 * Machine Learning
+* Natural Language Processing
+* Computer Vision
 * Robotics
 * Computer Security
 * Web and Mobile Development

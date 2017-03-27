@@ -34,7 +34,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Panggi Libersa J.A
   avatar: panggi.jpg
-  email: panggi@me.com
+  email: secure@panggi.com
   disqus-shortname: panggi
   twitter: panggi
   facebook: #username
@@ -43,7 +43,7 @@ owner:
   linkedin: panggi
   instagram: #username
   flickr: #username
-  tumblr: panggi
+  tumblr: #username
   google:
     plus: PanggiLibersaJasriAkadol
     analytics: UA-42012087-2
