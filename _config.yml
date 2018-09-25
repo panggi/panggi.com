@@ -5,7 +5,7 @@ locale: en_US
 description: I blog, therefore I learn
 logo: kyoto.jpg
 search: true
-url: 
+url: https://www.panggi.com
 
 
 # Jekyll configuration
